@@ -22,9 +22,8 @@ Rasbian can be downloaded from rasberrypi.org and loaded on to an sd card. Use n
 
 1. Connect the unicorn hat to the rasberry pi.
 
-1. Clone or download the repository 
-```git clone https://github.com/brianherman/healinguncle.git```
-```https://github.com/brianherman/healinguncle/archive/master.zip```
-    
+1. Clone or [Download](https://github.com/brianherman/healinguncle/archive/master.zip) the repository 
+```git clone https://github.com/brianherman/healinguncle.git ```
+
 1. Place infront of the subject and make them stare at it for an hour.
 
