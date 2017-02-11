@@ -16,16 +16,15 @@ Rasbian can be downloaded from rasberrypi.org and loaded on to an sd card. Use n
 
 1. Find out your rasberrypi's ip address from your router. This can be from the clients page of your router.
 
-1. Run this command in bash after sshing into the rasberry pi. The d
+1. On windows download [putty](http://www.chiark.greenend.org.uk/~sgtatham/putty/latest.html) On linux/OS X open a command prompt and ssh into the rasberry pi.
 
-    \curl -sS https://get.pimoroni.com/unicornhat | bash
-    
+1. Run this command in bash after sshing into the rasberry pi. ```\curl -sS https://get.pimoroni.com/unicornhat | bash```    
+
 1. Connect the unicorn hat to the rasberry pi.
 
 1. Clone or download the repository 
-
-    git clone https://github.com/brianherman/healinguncle.git
-    https://github.com/brianherman/healinguncle/archive/master.zip
-
+```git clone https://github.com/brianherman/healinguncle.git```
+```https://github.com/brianherman/healinguncle/archive/master.zip```
+    
 1. Place infront of the subject and make them stare at it for an hour.
 
